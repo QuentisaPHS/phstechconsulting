@@ -1,46 +1,42 @@
-Practical IT Solutions | Cloud Setup | Network Support | Technical Projects
+# 🌐 PHS Tech Consulting  
+**Practical IT Solutions | Cloud Setup | Network Support | Technical Projects**
 
-Welcome to the official GitHub for PHS Tech Consulting — a consulting agency providing reliable and future-ready IT solutions. We help individuals, small businesses, and organizations strengthen their technology foundation today while preparing for tomorrow.
+Welcome to the official GitHub for **PHS Tech Consulting** — a consulting agency providing reliable and future-ready IT solutions.  
 
-What We Do
+---
 
-Network setup & troubleshooting
-Cloud migration & support (Microsoft 365, Google Workspace, Azure, etc.)
-IT consulting & digital organization
-System security basics & best practices
-Technical project documentation & portfolio builds
+## 🚀 Services
+- Network setup & troubleshooting  
+- Cloud migration & support (Google Workspace, Office 365, Azure)  
+- IT support & digital organization  
+- System security basics & best practices  
+- Technical documentation & runbooks  
 
-📂 Featured Projects
+---
 
-Home Lab Infrastructure
- – Lightweight cloud/networking simulation for hands-on IT experience
+## 📂 Projects (in progress)
+- **Home Lab Infrastructure** → Lightweight cloud/networking simulation  
+- **Secure Network Setup Guide** → Small business best practices  
+- **Automation Scripts** → Beginner-friendly efficiency tools  
 
-Secure Network Setup Guide
- – Practical walkthrough for configuring small business networks
+---
 
-Automation Scripts
- – Beginner-friendly scripts for efficiency
+## 🛠 Tech Stack
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-(Links will be updated as projects are uploaded)
+---
 
-🛠 Tech Stack
+## 🎯 Vision
+By end of **2025**, PHS Tech Consulting will expand into:  
+- Advanced cloud engineering ☁️  
+- Cybersecurity readiness 🔐  
+- Full IT infrastructure consulting 🏗  
 
-Cloud: Azure, Google Cloud (learning path: AWS next)
+---
 
-Networking: Cisco Packet Tracer, pfSense, WireGuard
-
-OS: Ubuntu Linux, Windows Server
-
-Languages & Tools: Python (beginner), Git, GitHub, Docker (basic labs)
-
-🎯 Vision
-
-PHS Tech Consulting is building toward advanced cloud engineering, cybersecurity readiness, and full IT infrastructure consulting by end of 2025.
-Long-term, we’re aligning with a 25+ year roadmap toward post-human systems research & innovation.
-
-Connect
-
-🌍 Website: phstechconsulting.com
-💼 LinkedIn: [Your LinkedIn Here]
-💻 GitHub: PHS Tech Consulting
-📧 Email: Quentisa@phstechconsulting.com
+📌 *Professional. Accessible. Future-ready.*
